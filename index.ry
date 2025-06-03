@@ -1,2 +1,5 @@
-def (a,b)
-a+b
+def function(a,b):
+print(a+b)
+return a+b
+
+function(2, 3)
